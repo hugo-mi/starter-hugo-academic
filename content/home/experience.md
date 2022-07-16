@@ -22,14 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Scientist
-    company: Telecom Paris
-    company_url: ''
-    company_logo: org-telecom
-    location: Paris
-    date_start: '2021-09-01'
-    date_end: ''
-    description: Academic project during the post master's degree at Télécom Paris.
 
   - title: Professor of Semiconductor Physics
     company: University 10
