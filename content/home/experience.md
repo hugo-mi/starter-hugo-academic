@@ -22,14 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Scientist
+    company: Telecom Paris
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: org-telecom
+    location: Paris
+    date_start: '2021-09-01'
     date_end: ''
-    description: |2-
+    description: Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector.
+
+Research work on NILM (Non Intrusive Load Monitoring) technologies
+
+Designing of an end-to-end model for activity detection from the aggregated electrical load   curve of a house
+    |2-
         Responsibilities include:
         
         * Analysing
