@@ -29,9 +29,8 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector. 
-      |2-
-          Responsibilities include:
+    description: |2-
+          Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector:
           * Analysing
           * Modelling
           * Deploying
