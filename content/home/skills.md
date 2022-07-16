@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: 50%
     icon: brain-circuit
-    icon_pack: fas
+    icon_pack: fab
     name: Machine Learning
   - description: 60%
     icon: network-wired
