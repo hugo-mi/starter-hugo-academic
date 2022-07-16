@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: Telecom Paris
     company_url: ''
-    company_logo: telecom_svg2
+    company_logo: telecom_svg
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
