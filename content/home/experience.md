@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: Telecom Paris
     company_url: ''
-    company_logo: ![](telecom.png "telecom")
+    company_logo: ![](https://github.com/hugo-mi/starter-hugo-academic/blob/main/assets/media/icons/brands/telecom.png "telecom")
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
