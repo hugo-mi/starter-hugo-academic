@@ -42,7 +42,7 @@ Designing of an end-to-end model for activity detection from the aggregated elec
         * Deploying
 
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: University 10
     company_url: ''
     company_logo: org-x
     location: California
