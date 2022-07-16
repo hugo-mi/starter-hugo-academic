@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 50%
-    icon: brain-circuit
+    icon: microchip-ai
     icon_pack: fas
     name: Machine Learning
   - description: 60%
