@@ -29,7 +29,7 @@ experience:
     location: Paris
     date_start: '2021-09-01'
     date_end: ''
-    description: Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector.
+    description: Academic project during the post master's degree at Télécom Paris.
 
   - title: Professor of Semiconductor Physics
     company: University 10
