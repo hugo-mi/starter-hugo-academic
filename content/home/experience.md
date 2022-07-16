@@ -31,13 +31,6 @@ experience:
     date_end: '2020-12-31'
     description: Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector. Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector.
 
-    |2-
-        Responsibilities include:
-
-        * Analysing
-        * Modelling
-        * Deploying
-
   - title: Professor of Semiconductor Physics
     company: University 11
     company_url: ''
