@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: 50%
     icon: gears
-    icon_pack: fas
+    icon_pack: far
     name: Machine Learning
   - description: 60%
     icon: network-wired
