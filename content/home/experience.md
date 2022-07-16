@@ -29,9 +29,7 @@ experience:
     location: California
     date_start: '2021-09-01'
     date_end: ''
-    description: Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector. 
-* Research work on NILM (Non Intrusive Load Monitoring) technologies. 
-* Designing of an end-to-end model for activity detection from the aggregated electrical load curve of a house
+    description: Academic project during the post master's degree at Télécom Paris in connection with a company in the energy sector. Research work on NILM (Non Intrusive Load Monitoring) technologies. Designing of an end-to-end model for activity detection from the aggregated electrical load curve of a house
 
   - title: Professor of Semiconductor Physics
     company: University 11
