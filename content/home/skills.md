@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 50%
-    icon: gears
+    icon: brain-circuit
     icon_pack: far
     name: Machine Learning
   - description: 60%
